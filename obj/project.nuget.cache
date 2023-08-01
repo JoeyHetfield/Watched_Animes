@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8CVOeJs5MoxwGnKTEiCVKy0RrvW7gHOchbE80NIwgravZQuGpba7W/NJeCidK44U10AvHhrRkQag6Rf4q3WJw==",
+  "success": true,
+  "projectFilePath": "/home/joeyhetfield/studies/watched_animes/watched_animes.csproj",
+  "expectedPackageFiles": [
+    "/home/joeyhetfield/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/joeyhetfield/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/joeyhetfield/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/joeyhetfield/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/joeyhetfield/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/joeyhetfield/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
